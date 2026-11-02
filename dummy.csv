@@ -1,0 +1,26 @@
+Employee_ID,Employee_Name,Date,Product,Quantity,Sales,Region,City,Profit,Customer_Name,Payment_Mode
+E001,Rahul Sharma,2026-01-05,Laptop,2,100000,West,Ahmedabad,15000,Amit,UPI
+E002,Priya Patel,2026-01-07,Mobile,5,75000,West,Surat,12000,Neha,Cash
+E003,Amit Shah,2026-01-10,Tablet,3,45000,North,Delhi,8000,Rohit,Card
+E004,Neha Verma,2026-01-12,Monitor,4,60000,South,Bangalore,10000,Karan,UPI
+E005,Vikas Gupta,2026-01-15,Keyboard,10,15000,East,Kolkata,4000,Anil,Cash
+E006,Pooja Mehta,2026-01-18,Mouse,15,7500,West,Mumbai,2000,Simran,UPI
+E007,Rohit Singh,2026-01-20,Laptop,1,50000,North,Jaipur,7500,Manish,Card
+E008,Kavita Joshi,2026-01-22,Mobile,3,45000,South,Chennai,7000,Deepak,Cash
+E009,Ankit Jain,2026-01-25,Printer,2,30000,East,Patna,5000,Ravi,UPI
+E010,Meena Rao,2026-01-28,Tablet,4,60000,South,Hyderabad,11000,Pankaj,Card
+E011,Jay Patel,2026-02-02,Laptop,3,150000,West,Rajkot,25000,Harsh,UPI
+E012,Divya Shah,2026-02-05,Mobile,6,90000,West,Vadodara,14000,Komal,Cash
+E013,Arjun Kumar,2026-02-08,Monitor,5,75000,North,Delhi,13000,Suresh,Card
+E014,Simran Kaur,2026-02-11,Mouse,20,10000,North,Chandigarh,3000,Ramesh,UPI
+E015,Manish Yadav,2026-02-14,Keyboard,12,18000,East,Kolkata,4500,Ajay,Cash
+E016,Komal Desai,2026-02-17,Printer,3,45000,West,Surat,8000,Payal,Card
+E017,Deepak Mishra,2026-02-20,Laptop,2,100000,East,Bhubaneswar,16000,Rahul,UPI
+E018,Anjali Nair,2026-02-23,Tablet,5,75000,South,Kochi,13000,Mehul,Cash
+E019,Karan Malhotra,2026-02-25,Mobile,4,60000,North,Jaipur,9000,Akash,Card
+E020,Payal Trivedi,2026-02-27,Monitor,3,45000,West,Ahmedabad,8000,Nitin,UPI
+E021,Suresh Reddy,2026-03-02,Laptop,4,200000,South,Hyderabad,32000,Varun,Card
+E022,Harsh Mehta,2026-03-05,Mobile,8,120000,West,Mumbai,19000,Alok,UPI
+E023,Nitin Sharma,2026-03-08,Printer,4,60000,North,Delhi,10000,Jay,Cash
+E024,Varun Das,2026-03-11,Keyboard,15,22500,East,Kolkata,6000,Divya,Card
+E025,Akash Patel,2026-03-15,Tablet,6,90000,West,Rajkot,16000,Pratik,UPI
